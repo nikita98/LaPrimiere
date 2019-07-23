@@ -1,0 +1,63 @@
+.header {
+    font-family: 'Proxima Nova';
+
+    &__top-item {
+        height: 120px;
+        display: flex;
+        align-items: center;
+    }
+
+    &__logo-wrap {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+    &__city {
+        padding: 20px;
+        display: flex;
+        align-items: center;
+    }
+
+    &__city-icon {
+        margin-right: 10px;
+    }
+
+    &__sex {
+        text-transform: uppercase;
+        align-items: center;
+        display: flex;
+    }
+
+    &__sex-item {
+        padding: 20px;
+
+        &_active {
+            font-weight: 700;
+        }
+    }
+
+    &__icon-list {
+        display: flex;
+        align-items: center;
+    }
+
+    &__icon {
+        margin-right: 32px;
+    }
+
+    &__nav {
+        list-style: none;
+        padding: 0px 11%;
+        display: flex;
+        justify-content: space-between;
+        border-top: 1px solid #000000;
+        border-bottom: 1px solid #000000;
+    }
+
+    &__nav-link {
+        text-transform: uppercase;
+        padding: 16px;
+    }
+}

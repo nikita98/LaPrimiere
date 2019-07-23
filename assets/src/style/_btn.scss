@@ -1,0 +1,23 @@
+.btn{
+  min-width: 210px;
+  max-width: 90%;
+  background-color: #000;
+  color: #fff;
+  font-family: Raleway;
+  font-weight: 300;
+  font-size: 21px;
+  line-height: 1.2;
+  cursor: pointer;
+  &__link{
+    color: #fff;
+    font-family: Raleway;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 1.2;
+    padding: 8px 12px;
+    background-color: #000;
+    &:hover{
+      color: #fff;
+    }
+  }
+}

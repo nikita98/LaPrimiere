@@ -1,0 +1,66 @@
+.footer {
+    background-color: $bg;
+    display: flex;
+
+    &__left {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+    }
+
+    &__logo-wrap{
+        width: 80%;
+    }
+    &__logo {
+        width: 100%;
+        height: auto;
+    }
+
+    &__lists {
+        text-align: left;
+        padding: 60px 0 84px;
+    }
+
+    &__list-title {
+        display: block;
+        font-family: 'Proxima Nova';
+        font-size: 21px;
+        margin-bottom: 45px;
+        font-weight: 600;
+    }
+
+    &__list {
+        list-style: none;
+    }
+
+    &__list-item {
+        margin-bottom: 26px
+    }
+
+    &__link {
+        font-family: 'Raleway';
+        font-weight: 300;
+        font-size: 14px;
+        display: block;
+    }
+
+    &__right {
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+        flex-direction: column;
+    }
+
+    &__phone {
+        font-family: 'Proxima Nova';
+        font-size: 40px;
+        line-height: 49px;
+    }
+
+    &__phone-after {
+        font-family: 'Raleway';
+        font-weight: 300;
+        font-size: 21px;
+        line-height: 25px
+    }
+}
