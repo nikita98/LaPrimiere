@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c5344e0-6239-4027-bb3d-425e1c0c2bb9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +24,20 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/src/style/my.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="323">
-                  <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+                <state relative-caret-position="493">
+                  <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="68">
+                  <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
                 </state>
               </provider>
             </entry>
@@ -123,6 +133,7 @@
         <option value="$PROJECT_DIR$/assets/src/style/_double-img.scss" />
         <option value="$PROJECT_DIR$/assets/src/style/my.scss" />
         <option value="$PROJECT_DIR$/assets/src/style/_product.scss" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -144,24 +155,6 @@
             <path>
               <item name="gulp-project-bootstrap-4-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="gulp-project-bootstrap-4-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gulp-project-bootstrap-4-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gulp-project-bootstrap-4-master" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gulp-project-bootstrap-4-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gulp-project-bootstrap-4-master" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gulp-project-bootstrap-4-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gulp-project-bootstrap-4-master" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -220,7 +213,7 @@
       <workItem from="1563779521740" duration="1397000" />
       <workItem from="1563782227698" duration="7655000" />
       <workItem from="1563847790291" duration="13352000" />
-      <workItem from="1563863752550" duration="694000" />
+      <workItem from="1563863752550" duration="1197000" />
     </task>
     <task id="LOCAL-00001" summary="double-img">
       <created>1563862390686</created>
@@ -236,11 +229,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563863791982</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="double-img">
+      <created>1563864681458</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563864681458</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23098000" />
+    <option name="totallyTimeSpent" value="23601000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -427,9 +427,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -504,8 +501,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/src/style/my.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>
